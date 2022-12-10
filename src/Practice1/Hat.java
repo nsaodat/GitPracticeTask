@@ -5,6 +5,8 @@ public class Hat {
 
     // Balmoral bonnet: It is a traditional Scottish hat. ...
 
+    // Beret: Beret is a soft,round,flat-crowned hat. ...
+
 
 
 

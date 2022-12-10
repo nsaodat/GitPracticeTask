@@ -5,4 +5,6 @@ public class Store {
     // Department Stores
 
     // Specialty Stores
+
+    // Boutiques
 }

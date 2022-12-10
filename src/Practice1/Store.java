@@ -7,4 +7,6 @@ public class Store {
     // Specialty Stores
 
     // Boutiques
+
+    // Discount Stores
 }
